@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script to perform cleanup after using create-react-app to initialize a new react application
 
 # Delete all unncesseary files
 cd public
