@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script to perform cleanup after using create-react-app to initialize a new react application
 
-# Delete all unncesseary files
+# Delete all unnecessary files
 cd public
 rm logo192.png logo512.png manifest.json robots.txt
 cd ../src
@@ -14,7 +14,7 @@ echo "function App() {
 }
 export default App;" >> App.js
 
-# Delete unessesary lines in index.js
+# Delete unnecessary lines in index.js
 sed -i "" '3d' ./index.js
 sed -i "" '4d' ./index.js
 sed -i "" '12,15d' ./index.js
