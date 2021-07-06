@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to perform cleanup after using create-react-app to initialize a new react application
+# Script to perform cleanup after using create-react-app with Typescript to initialize a new react application
 
 # Delete all unnecessary files
 cd public
