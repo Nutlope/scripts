@@ -1,8 +1,12 @@
-# Random scripts I use
+# Dev Scripts
 
-If on mac/linux, use `chmod +x ./$SCRIPTNAME` to make the script executable before running.
+> Scripts I use to enhance my productivity as a dev.
 
-Run the script by simply typing ./$SCRIPTNAME if it's in your current folder.
+## Usage
+
+If on mac/linux, run `chmod +x ./$SCRIPTNAME` to make the script executable before executing the script.
+
+Run the script by simply typing `./$SCRIPTNAME` if it's in your current folder.
 
 ## Scripts
 
